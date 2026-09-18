@@ -12,7 +12,7 @@ This project delivers an end-to-end operational decision-support dashboard track
 ![Executive Overview](images/executive_overview.png)
 
 ### 🔗 Interactive Dashboard
-[View on Power BI Service](<YOUR_POWER_BI_SERVICE_LINK_HERE>)
+[View on Power BI Service](https://app.powerbi.com/groups/2a6c2e88-40d1-4d28-a22b-a9c40287fc43/reports/2aee1971-9e55-46de-8784-16543ccb591b?ctid=7212a37c-41a9-4402-9f69-ac32c6f76e1a&pbi_source=linkShare&bookmarkGuid=60891052-167f-44e0-a6f8-512e2e6a92db)
 
 ---
 
