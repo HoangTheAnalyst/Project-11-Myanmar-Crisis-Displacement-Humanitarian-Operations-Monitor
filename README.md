@@ -95,6 +95,7 @@ Provide operational visibility into displacement triggers, temporal seasonality,
 
 ## 📝 Project Structure
 
+```text
 Project 11 - Myanmar Crisis Displacement & Humanitarian Operations Monitor
 ├── dashboard/
 │   └── Myanmar Incidents.pbix
@@ -105,7 +106,7 @@ Project 11 - Myanmar Crisis Displacement & Humanitarian Operations Monitor
 │   ├── disaster_response.png
 │   └── executive_overview.png
 └── README.md
-
+```
 
 ---
 
